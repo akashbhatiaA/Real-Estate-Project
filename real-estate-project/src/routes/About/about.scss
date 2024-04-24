@@ -1,7 +1,6 @@
-
 @import "../../responsive.scss";
 
-.homePage {
+.about{
 
   display: flex;
   height: 100%;
@@ -38,63 +37,7 @@
       }
 
 
-      .title {
-        font-size: 40px;
 
-        @include lg {
-
-          font-size: 32px;
-        }
-
-        @include sm {
-
-          font-size: 20px;
-          padding-top: 30px;
-          
-        }
-       
-      }
-
-      .boxes {
-
-        display: flex;
-        justify-content: space-between;
-
-        @include sm {
-
-          display:none;
-        }
-
-        h1{
-  
-          font-size: 30px;
-
-          @include lg {
-
-            font-size: 38px;
-          }
-
-          @include sm {
-
-            font-size: 20px;
-          }
-
-        }
-  
-        h2{
-  
-          font-size: 15px;
-          font-weight: 50;
-
-          @include sm {
-
-            font-size: 12px;
-          }
-
-
-        }
-       
-        }
       }
 
 
@@ -135,5 +78,4 @@
 
     }
   }
-
 }
