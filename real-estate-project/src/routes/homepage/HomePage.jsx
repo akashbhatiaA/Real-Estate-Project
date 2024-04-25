@@ -15,13 +15,11 @@ function HomePage(){
                 </h1>
 
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione accusamus rem, 
-                    tempora tenetur, dolore voluptatem soluta suscipit alias voluptatum id explicabo 
-                    commodi animi debitis officiis nulla, corrupti distinctio. Temporibus, esse.
+                Our real estate business specializes in delivering exceptional properties tailored to meet the diverse needs of our clientele. With a keen focus on meticulous planning, innovative design, and sustainable development practices, we strive to create spaces that exceed expectations. From residential developments that redefine modern living to commercial projects that foster vibrant business environments, our portfolio reflects our commitment to quality and excellence.
                 </p>
 
                 <SearchBar />
-
+                
                 <div className="boxes">
                     <div className="box">
 
